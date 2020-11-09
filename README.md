@@ -8,4 +8,4 @@
 · Definir Chefe do departamento.
 
 
-![List APIs](img/swagger.JPG "List API")
+![List APIs](img/swagger.PNG "List API")
