@@ -1,7 +1,9 @@
 # Api - Disys
 
- Criar projeto webservice rest com spring boot.
 
+Api criada para controle de Funcionarios, Departamentos, Cargos.
+
+ Criar projeto webservice rest com spring boot.
 ###### Disponibilizar swagger da aplicação.
 ###### Criar crud de funcionário.
 ###### Consulta de funcionários de um departamento.
