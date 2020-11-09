@@ -12,3 +12,6 @@ Api criada para controle de Funcionarios, Departamentos, Cargos.
 
 
 ![List APIs](img/swagger.PNG "List API")
+![List APIs](img/swagger-1.PNG "List API")
+![List APIs](img/swagger-2.PNG "List API")
+![List APIs](img/swagger-3.PNG "List API")
